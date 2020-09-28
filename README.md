@@ -1,5 +1,5 @@
 # DVDRipToMKV
-*Batch-convert DVD-Rips to MKV using Windows PowerShell and MakeMKV*
+#### Batch-convert DVD-Rips to MKV using Windows PowerShell and MakeMKV
 
 MakeMKV is a great program for ripping and converting DVDs to ` .mkv ` files, or for converting already ripped DVDs to ` .mkv `. The latter process is, however, limited in that users have to convert ripped DVDs one by one. This can be a very time-consuming process for users who have a large number of ripped DVDs. Enter **DVDRipToMKV**. **DVDRipToMKV** is a PowerShell script which allows users to choose a folder to scan for any ripped DVDs contained inside. The script then converts each ripped DVD to an ` .mkv ` file using MakeMKV, making the whole process much quicker and easier.
 
