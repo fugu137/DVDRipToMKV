@@ -1,5 +1,7 @@
 # DVDRipToMKV
-Batch-convert DVD-Rip to MKV using Windows PowerShell and MakeMKV
+Batch-convert DVD-Rips to MKV using Windows PowerShell and MakeMKV. 
+
+Feel free to use this for personal use! Instructions below.
 
 ### Requirements
 * Windows PowerShell. 
