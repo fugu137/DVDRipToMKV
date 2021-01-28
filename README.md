@@ -5,7 +5,7 @@ MakeMKV is a great program for ripping and converting DVDs to ` .mkv ` files, or
 
 Feel free to use this to convert your own ripped DVDs to MKV! Instructions below.
 
-![Image](DVDRipToMKV (2).png)
+![Image](DVDRipToMKV.png)
 
 ### Requirements
 * Windows PowerShell. 
